@@ -28,6 +28,28 @@
    
    
 }
+.menu-list ul{
+   
+   display: flex;
+   list-style: none;
+   justify-content: space-between; 
+   padding-left: 100px;
+   padding-right: 450px;
+   padding-bottom: 10px;
+}
+.menu-list ul li{
+   text-align: center;
+   
+   color: #F0EFF8;
+   font-size: 20px;
+ }
+ #abc {
+    color: #99C1DA;
+ }
+     
+ 
+
+
 .login{
     display: flex;
     width:10%;
