@@ -216,7 +216,7 @@
     padding-left: 10px;
     justify-content: center;
 }
-.a1-2-social-content{
+.icons ul{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -224,7 +224,7 @@
     font-size: 20px;
 
 }
-.a1-2-social-content li{
+.icons li{
    
     width: 60px;
     line-height: 30px;
