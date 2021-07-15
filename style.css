@@ -198,29 +198,40 @@
 
 .football{
     width:97% ;
-    height:120px ;
+    height:130px ;
     text-align: center;
 }
 .football img{
     width:30% ;
-    height:120px ;
+    height:115px ;
 }
-.icon{
-    width: 30px;
+
+
+.icons{
+    width: 97%;
     height: 30px;
     display: flex;
     text-align: center;
     justify-content: space-between;
-    padding-left: 680px;
-    
+    padding-left: 10px;
+    justify-content: center;
 }
-icon img{
-    padding: 5px;
-    width: 30px;
-    height: 30px;
-    justify-content: space-between;
-    text-align: center;
+.a1-2-social-content{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    list-style-type: none;
+    font-size: 20px;
+
 }
+.a1-2-social-content li{
+   
+    width: 60px;
+    line-height: 30px;
+    color:#969BAB ;
+}
+
+
 .footer{
     width:97% ;
     height:120px ;
